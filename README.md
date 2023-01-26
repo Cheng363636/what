@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://xingye.me/game/eatkano"><img src="https://github.com/Cheng363636/EatKano/blob/main/static/image/ClickBefore.png?raw=true" width="100" height="100" alt="Eat_Yue~_Game"></a>
+  <a href="https://cheng363636.github.io/what/"><img src="https://github.com/Cheng363636/what/blob/main/static/image/ClickBefore.png?raw=true" width="100" height="100" alt="欸嘿"></a>
 </p>
 <div align="center">
 
@@ -12,7 +12,7 @@ _no 网页小游戏 no_
 
 ## 简介
 
-小游戏：吃掉臭先辈
+小游戏：吃掉欸嘿
 
 [Cheng363636 b站](https://space.bilibili.com/489339511)
 
