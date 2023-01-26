@@ -3,9 +3,9 @@
 </p>
 <div align="center">
 
-# Eat_Yue~_Game
+# 欸嘿
 
-_no 网页小游戏 no_
+_no 网页欸嘿 no_
 
 </div>
 
